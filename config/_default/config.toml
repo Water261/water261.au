@@ -2,7 +2,7 @@
 baseurl = "https://water261.au"
 languageCode = "en-au"
 paginate = 5
-title = "Water261's Blog"
+title = "Matthew's Blog"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar

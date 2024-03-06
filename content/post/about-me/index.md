@@ -7,7 +7,7 @@ categories:
   - Introduction
 ---
 
-I'm Water261, an open source developer based in Brisbane, Australia. 
+I'm Matthew (Water261), an open source developer based in Brisbane, Australia. 
 I mainly write my code in [Rust](https://rust-lang.org) and use [Svelte](https://svelte.dev) for web development.
 In my free time I like to learn about lots of different programming and computer science topics, as of writing this my current topics are:
 
